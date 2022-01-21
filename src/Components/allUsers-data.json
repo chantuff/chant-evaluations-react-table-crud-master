@@ -1,0 +1,64 @@
+{
+    "allUsers": [
+      {
+        "email": "joe@ourbranch.com",
+        "name": "Joe Joy",
+        "role": "DEVELOPER",
+        "__typename": "User"
+      },
+      {
+        "email": "tati@ourbranch.com",
+        "name": "Tatiana Mesa, testinger",
+        "role": "DEVELOPER",
+        "__typename": "User"
+      },
+      {
+        "email": "kelly@ourbranch.com",
+        "name": "Kelly Fogarty 🥳🥳🥳🥳",
+        "role": "DEVELOPER",
+        "__typename": "User"
+      },
+      {
+        "email": "charlie@ourbranch.com",
+        "name": "Charlie Wendland",
+        "role": "MARKETING",
+        "__typename": "User"
+      },
+      {
+        "email": "jason@ourbranch.com",
+        "name": "Jason Brown",
+        "role": "DEVELOPER",
+        "__typename": "User"
+      },
+      {
+        "email": "mathias@ourbranch.com",
+        "name": "Mathias Rabellino",
+        "role": "DEVELOPER",
+        "__typename": "User"
+      },
+      {
+        "email": "victoria@ourbranch.com",
+        "name": "Victoria Lavella",
+        "role": "APP_MANAGER",
+        "__typename": "User"
+      },
+      {
+        "email": "dan@ourbranch.com",
+        "name": "Dan Spiegel",
+        "role": "ADMIN",
+        "__typename": "User"
+      },
+      {
+        "email": "steve@ourbranch.com",
+        "name": "Steve Lekas",
+        "role": "APP_MANAGER",
+        "__typename": "User"
+      },
+      {
+        "email": "sebas@ourbranch.com",
+        "name": "Sebastian Rodriguez  💻",
+        "role": "APP_MANAGER",
+        "__typename": "User"
+      }
+    ]
+  }
